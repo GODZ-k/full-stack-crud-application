@@ -3,13 +3,15 @@
 ## Description
 This is a simple CRUD (Create, Read, Update, Delete) application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
+## Working
+
+# [Watch Video](https://res.cloudinary.com/do1fqeebr/video/upload/v1711953939/rhwflrgtl23ukwwqatqa.mp4)
+
 ## Features
 - Create, read, update, and delete operations
 - Image upload and update ([multer](https://github.com/expressjs/multer.git) and [cloudinary](https://cloudinary.com/) )
 - User Input Validation ([Zod](https://zod.dev))
 -
-
-## [Watch Video](https://res.cloudinary.com/do1fqeebr/video/upload/v1711953939/rhwflrgtl23ukwwqatqa.mp4)
 
 ## Backend Dependencies
 - Zod : Zod is a user input validation library used to validate user input and return response in boolean.
