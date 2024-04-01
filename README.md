@@ -5,7 +5,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with the 
 
 ## Working
 
-# [Watch Video](https://res.cloudinary.com/do1fqeebr/video/upload/v1711953939/rhwflrgtl23ukwwqatqa.mp4)
+ [Watch Video](https://res.cloudinary.com/do1fqeebr/video/upload/v1711953939/rhwflrgtl23ukwwqatqa.mp4)
 
 ## Features
 - Create, read, update, and delete operations
