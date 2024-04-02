@@ -3,12 +3,14 @@ import ReactDOM from 'react-dom/client'
 import { Route , RouterProvider, createBrowserRouter, createRoutesFromElements} from "react-router-dom"
 import './index.css'
 import Layout from './Layout.jsx'
-import { Home } from './Components/index.js'
+import { Home, Login, Signup } from './Components/index.js'
 
 const route = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={<Layout/>}>
       <Route path='' element={<Home/>}/>
+      <Route path='login' element={<Login/>}/>
+      <Route path='signup' element={<Signup/>}/>
 
     </Route>
   )
